@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+This is a new feature
+=======
+This is a new feature
+>>>>>>> feature-greeting
+=======
+ This is a new feature.
+ 
+>>>>>>> feature-greeting
